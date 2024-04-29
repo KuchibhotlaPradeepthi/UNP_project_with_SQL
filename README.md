@@ -1,6 +1,6 @@
 # UNP_project_with_SQL
 
-Completed this project as a part of my SQL internship with United Network of Professionals (UNP)
+Explore the SQL analysis of sales sample data for valuable insights into customer behavior, product performance, and sales trends. 
 
 SQL_script link - https://drive.google.com/file/d/1OaFE2KdwSmuL3tzwJ7LZqoGdhB71QoJ7/view?usp=sharing
 
